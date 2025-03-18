@@ -31,13 +31,9 @@ It began back during my childhood days, the urge to play the IPL Auction depicti
 
 <h2 id='features'> What it does ✨</h2>
 
-![AndThatsWhatItDoesDigibyteGIF](https://user-images.githubusercontent.com/59244289/136423729-777b2bb9-3d7c-4ec3-a9e3-742167451853.gif)
-
 You can team up with your friends and dive into the fun world of auctioning IPL players. The application is capable of auctioning players belonging to various IPL Teams. The bid timer is reset with each bid and the time slot to buy a player is 10 seconds so be quick. It's a fun application to experience the the real IPL Auction with friends. Simply create an account, gather your friends and jump staright into the auction.
 
 <h2 id='build'> How I built it 🐺</h2>
-
-![HowItsMadeCuriousGIF](https://user-images.githubusercontent.com/59244289/136423987-f44902a6-a93b-423d-af6d-1d2c525bdfa4.gif)
 
 - React is used on the client side.
 - Node.js is used on the server side.
@@ -51,27 +47,13 @@ You can team up with your friends and dive into the fun world of auctioning IPL 
 - node-schedule is used to schedule the scraping process.
 - Mongodb database is used to store the incomming data.
 
-<h2 id='screenshots'>Screenshots 🖼️</h2>
-
-<div align="center">
-  <img width="45%" src="https://github.com/Coder-Srinivas/Ipl-Auction/blob/master/client/public/Images/Screenshot-1.png">
-  <img width="45%" src="https://github.com/Coder-Srinivas/Ipl-Auction/blob/master/client/public/Images/Screenshot-2.png">
-  <img width="45%" src="https://github.com/Coder-Srinivas/Ipl-Auction/blob/master/client/public/Images/Screenshot-3.png">
-  <img width="45%" src="https://github.com/Coder-Srinivas/Ipl-Auction/blob/master/client/public/Images/Screenshot-4.png">
-  <img width="45%" src="https://github.com/Coder-Srinivas/Ipl-Auction/blob/master/client/public/Images/Screenshot-5.png">
-  <img width="45%" src="https://github.com/Coder-Srinivas/Ipl-Auction/blob/master/client/public/Images/Screenshot-6.png">
-  <img width="45%" src="https://github.com/Coder-Srinivas/Ipl-Auction/blob/master/client/public/Images/Screenshot-7.png">
-</div>
-
 <h2 id='play'>How to play 🎭</h2>
-
-![TypicalDayPaningningTheRealPaningningGIF](https://user-images.githubusercontent.com/59244289/136424082-80c3bbc0-5575-472b-a4e7-97942c4b10b5.gif)
 
 - Login/Signup using your email address and password
 - Create a new auction
 - Share the generated code with your friends
 - Bid on your favourite players
-- Most important part is to enjoy
+- Most impo to enjoy
 
 <h2 id='structure'>Project Structure 💪</h2>
 
