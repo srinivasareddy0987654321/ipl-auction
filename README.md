@@ -6,17 +6,11 @@
     <a href ='#tech-stack'> Tech Stack 👨‍💻</a>
   </li>
   <li>
-   <a href ='#inspiration'> My Inspiration 💡</a>
-  </li>
-  <li>
    <a href ='#features'> What it does ✨</a>
   </li>
   <li>
      <a href ='#build'> How I built it 🐺</a>
   </li>
-  <li> 
-   <a href='#screenshots'>Screenshots 🖼️</a>
-   </li>
    <li> 
    <a href='#play'>How to play 🎭</a>
    </li>
