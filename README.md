@@ -1,14 +1,5 @@
 # Ipl-Auction
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://ipl-mega-auction.herokuapp.com/)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/67f92738bcce4a2c83e2b0885e3bf649)](https://www.codacy.com/gh/Coder-Srinivas/Ipl-Auction/dashboard?utm_source=github.com&utm_medium=referral&utm_content=Coder-Srinivas/Ipl-Auction&utm_campaign=Badge_Grade)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-
-![Ipl-Auction](https://socialify.git.ci/Coder-Srinivas/Ipl-Auction/image?description=1&font=Source%20Code%20Pro&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
-
-## Hit ⭐ if you like this project
-
 <h2> Overview </h2>
  <ul>
   <li>
@@ -35,13 +26,6 @@
  </ul>
  
 <h2 id='tech-stack'> Tech Stack 👨‍💻</h2>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<h2 id='inspiration'> My Inspiration 💡</h2>
-
-![YoureMyInspirationBrynnElliottGIF](https://user-images.githubusercontent.com/59244289/136423443-7dd54f9f-e9b7-45a4-a700-037558abd1a1.gif)
 
 It began back during my childhood days, the urge to play the IPL Auction depicting real players. I used to team up with my friends and play the auction manually with a pen and paper, with a organizer to keep track. Over the last 1 year, I wondered, can I do anything to make my experience better? So I came up with the idea of building a IPL auction app, based on the MERN stack.
 
